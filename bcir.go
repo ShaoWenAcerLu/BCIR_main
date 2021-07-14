@@ -1,11 +1,11 @@
 package main
 
 import (
-	//"dps"
 	"fmt"
+	dps "github.com/ShaoWenAcerLu/BCIR_dps"
 )
 
 func main() {
 	fmt.Println("BCIR Prototype")
-	//dps.StartDPS()
+	dps.StartDPS()
 }
